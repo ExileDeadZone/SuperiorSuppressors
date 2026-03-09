@@ -1,5 +1,7 @@
 [h1]SuperiorSuppressors[/h1]
 
+[img]https://img.shields.io/badge/DayZ-v1.29-6BA539?style=for-the-badge&logo=bohemiainteractive&logoColor=6BA539&labelColor=30363D[/img]
+
 [u]Contains:[/u]
 - 2x health and 3x noise suppression
 - AWC Thundertrap .308 suppressor (CZ550 Savanna, DMR, LAR, Longhorn, M70 Tundra)
@@ -52,10 +54,10 @@
 [/code]
 
 [h2]GITHUB:[/h2]
-[url=https://github.com/IsleOfTheDead/SuperiorSuppressors]https://github.com/IsleOfTheDead/SuperiorSuppressors[/url]
+[url=https://github.com/ExileDeadZone/SuperiorSuppressors]https://github.com/ExileDeadZone/SuperiorSuppressors[/url]
 
 [h2]CONTACT:[/h2]
-[url=https://discord.gg/isleofthedead][img]https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png[/img][/url]
+[url=https://discord.gg/ExileDeadZone][img]https://raw.githubusercontent.com/ExileDeadZone/.github/main/images/discord.png[/img][/url]
 
 [h2]LEGAL:[/h2]
 [b]REPACKING IS ALLOWED.[/b]

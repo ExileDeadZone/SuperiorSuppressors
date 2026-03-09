@@ -1,13 +1,13 @@
-<img src="https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ExileDeadZone/.github/main/images/banner.png" width="100%" />
 
 # SuperiorSuppressors
 
 ![DayZ](https://img.shields.io/badge/DayZ-v1.29-6BA539?style=for-the-badge&logo=bohemiainteractive&logoColor=6BA539&labelColor=30363D)
 
 Contains:
-* 5x health
-* 3x noise suppression
-* Can repair/reinforce improvised suppressor
+* 2x health and 3x noise suppression
+* AWC Thundertrap .308 suppressor (CZ550 Savanna, DMR, LAR, Longhorn, M70 Tundra)
+* Can repair (duct tape) and reinforce (epoxy putty) improvised suppressor
 
 ## Installation:
 
@@ -16,8 +16,8 @@ Contains:
 
 ## Contact
 
-<a href="https://discord.gg/isleofthedead">
-<img src="https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png" />
+<a href="https://discord.gg/ExileDeadZone">
+<img src="https://raw.githubusercontent.com/ExileDeadZone/.github/main/images/discord.png" />
 </a>
 
 ## Licenses
