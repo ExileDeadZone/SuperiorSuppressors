@@ -45,7 +45,7 @@
   <!-- COPY BETWEEN HERE -->
   <!-- additional types -->
   <ce folder="db/types">
-    <!-- Isle of The Dead -->
+    <!-- Exile: Dead Zone -->
     <file name="SuperiorSuppressors.xml" type="types" />
     <!-- more additional type files... -->
   </ce>
